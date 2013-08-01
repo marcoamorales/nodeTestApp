@@ -1,0 +1,11 @@
+{
+    "name": "nodeTestApp",
+    "version": "0.1.0",
+    "dependencies": {
+        "requirejs": "~2.1.5",
+        "jquery": "~1.9.1",
+        "backbone": "~0.9.10",
+        "underscore": "~1.4.4",
+        "almond": "~0.2.5"
+    }
+}
