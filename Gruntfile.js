@@ -5,7 +5,7 @@ module.exports = function (grunt) {
         pkg: grunt.file.readJSON('package.json'),
         jshint: {
             options: {
-                jshintrc: '.jshintrc',
+                jshintrc: 'node_modules/grunt-contrib-jshint/.jshintrc',
                 force: true
             },
             node: {
