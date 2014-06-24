@@ -5,7 +5,7 @@ var express = require('express'),
 app.set('port', 8000);
 
 // enables compression for all requests
-app.use(express.compress());
+//app.use(express.compress());
 
 // mounts and configures rest api
 
